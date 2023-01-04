@@ -10,4 +10,3 @@ I like to learn new things and share my knowledge with others because in this wa
 
 I have experience in Frontend as well as Backend, but I preferred Backend because is more interesting, is where all pieces conect to make something works behind the scenes.
 
-* I'm currently learning about System Design, Algorithms & Data Structures.
